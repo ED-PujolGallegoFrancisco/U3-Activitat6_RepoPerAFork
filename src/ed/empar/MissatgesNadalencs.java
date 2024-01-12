@@ -143,7 +143,11 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC5() {
-
+		System.out.println("====================================");
+		System.out.println("¡Hola, soy Paco!");
+		System.out.println("¡FELIZ AÑO NUEVO!");
+		System.out.println("¡Espero que se cumplan todos tus propósitos!");
+		System.out.println("====================================");
 	}
 
 	private static void AlumneFila2PC6() {
